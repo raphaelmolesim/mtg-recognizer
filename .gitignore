@@ -1,0 +1,7 @@
+dataset/*
+
+*.pt
+
+tmp/*
+
+__pycache__/*
