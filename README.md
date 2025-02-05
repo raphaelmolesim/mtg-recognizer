@@ -1,6 +1,6 @@
 # Setup
 
-# Python version
+## Python version
 
 Install Python 3.12.3
 
